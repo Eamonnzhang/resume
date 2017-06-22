@@ -78,7 +78,7 @@
 - Web开发：Node
 - Web框架：Express/socket.io
 - 前端框架：Bootstrap/SemanticUI/Vuejs/jQuery
-- 前端工具：Bower/Gulp/Sass/PostCSS
+- 前端工具：Bower/Gulp/Sass/PostCSS/Webpack/RequireJS
 - 数据库相关：MongoDB/MySQL
 - 版本管理：Git
 
