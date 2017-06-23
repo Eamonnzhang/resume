@@ -49,7 +49,7 @@
 我在此项目主要负责前端页面部分（参考Coding的WebIDE）以及多人同步实时编码模块的实现。在这个项目中，用到了开源的 `Ace` 编辑器，遇到的最困难的问题是如何实现多人实时同步编码以及光标的同步显示，最后通过 `socket.io` 模块以及手动实现光标载入到 `Ace` 中实现。
 
 
-### 多人在线实时画板
+### 多人实时在线画板
 我在此项目中负责整体项目的规划和开发，用到了 `fabric.js` 库，这个项目遇到的问题是如何合理化设计数据库表以及实现绘图的同步。
 
 ---
@@ -58,9 +58,11 @@
 
 ## 开源项目
 
- - [vue-admin-express-mongoose](https://github.com/Eamonnzhang/vue-admin-express-mongoose)：一个适合中后台全栈单页面应用开发的环境和基础代码结构
-  - [animated-navigation-bar](https://github.com/Eamonnzhang/animated-navigation-bar)：A Nice and Animated Side Navigation Bar Built by jQuery&TweenMax(GSAP)
- - [查看更多](http://github.com/Eamonnzhang)
+- [vue-admin-express-mongoose](https://github.com/Eamonnzhang/vue-admin-express-mongoose)：一个适合中后台全栈单页面应用开发的环境和基础代码结构
+- [animated-navigation-bar](https://github.com/Eamonnzhang/animated-navigation-bar)：A Nice and Animated Side Navigation Bar Built by jQuery&TweenMax(GSAP)
+- [PSD还原1](http://www.lonlife.cn/korea)：韩服加速专题网站
+- [PSD还原2](https://www.lonlife.cn/guildwars2)：游戏专题网站
+- [查看更多](http://github.com/Eamonnzhang)
 
 ## 技术文章
 
